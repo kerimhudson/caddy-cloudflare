@@ -1,6 +1,6 @@
-# Caddy with Cloudflare Plugin
+# Caddy with Cloudflare Module
 
-Caddy with integrated support for Cloudflare DNS-01 ACME verification challenges.
+Caddy with integrated support for Cloudflare verification challenges via the Cloudflare module.
 
 ### Currently available images
 
